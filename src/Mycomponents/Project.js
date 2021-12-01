@@ -14,7 +14,7 @@ export const Project = () => {
                     <Card links="/service" title="service"/>
                 </div>
                 <div className="col-md-3">
-                    <Card links="/Relationship" title="Relationships"/>
+                    <Card links="/Relationships" title="Relationships"/>
                 </div>
                 <div className="col-md-3">
                     <Card  title="Apps"/>
